@@ -104,3 +104,5 @@ I guess that's it. Awesome work! Feel free to show me your site :)
 ## Credits
 
 This workshop was originally written by [Jonny Strömberg](https://github.com/javve/bootstrap-workshop) for [Hyper Island](http://www.hyperisland.com/).
+He did such a great job, I used his workshop as a starting point. To see more awesome work from Jonny, look him up on [GitHub](http://github.com/javve)
+or check out [List.js](http://www.listjs.com/).
