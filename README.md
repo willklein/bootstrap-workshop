@@ -13,8 +13,8 @@ Questions? Ask me or one of the coaches for help. I'll work through the workshop
 #### Extra
 
 * If you get stuck with an assignment, ask for help or skip it!
-* Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) ex  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures for other resolutions)
-* Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) ex  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures for other resolutions)
+* Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) example:  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures for other resolutions)
+* Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) example:  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures for other resolutions)
 * Note: See `class="img-responsive"`? [Read more at getbootstrap.com](http://getbootstrap.com/css/#overview-responsive-images)
 
 #### Errors?
