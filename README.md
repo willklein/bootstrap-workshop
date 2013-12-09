@@ -1,14 +1,14 @@
 ![](images/0.jpg?raw=true)
 
-# Bootstrap Workshop with Hyper Island
+# Bootstrap Workshop with InnovateCU
 
-- [Download this project](https://github.com/javve/bootstrap-workshop/archive/master.zip) to get started.
-- Open index.html in your favorite editor ([Sublime Text](http://www.sublimetext.com/) is awesome and free)
+- [Download this project](https://github.com/wklein/bootstrap-workshop/archive/master.zip) to get started.
+- Open index.html in your favorite editor
 - What are you wating for?
 
 Each assignment contains a couple of images that shows the desired result. I've decided to no include CSS editing in this workshop, but feel free to add margins under some elements to make it look better.
 
-Questions? Grab me or [ping @javve at Twitter](https://twitter.com/javve).
+Questions? Grab me or [ping @willslab at Twitter](https://twitter.com/willslab).
 
 #### Extra
 
@@ -19,7 +19,7 @@ Questions? Grab me or [ping @javve at Twitter](https://twitter.com/javve).
 
 #### Errors?
 
-If you find any errors (spelling or whatever), please make a __pull request__ (extra points!) or at least [post an issue](https://github.com/javve/bootstrap-workshop/issues/new).
+If you find any errors (spelling or whatever), please make a __pull request__ (extra points!) or at least [post an issue](https://github.com/willklein/bootstrap-workshop/issues/new).
 
 
 ## Assignment 1: Grid
@@ -92,8 +92,15 @@ __Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` 
 ![](images/6-1.png?raw=true)
 
 
-## Assignment 7: Update your own site
+## Assignment 7: Build your own site
 
-Add Bootstrap to the site you've been building the last two days, and update the elements so they look Bootstrap-ish (add classes & stuff).
+Use Bootstrap to setup a personal website or landing page for your startup!
+- Start with a single page site
+- Try GitHub Pages for free hosting
+- Need a startup idea? Make something up, or use a generator like [this one](http://itsthisforthat.com/).
 
 I guess that's it. Awesome work! Feel free to show me your site :)
+
+## Credits
+
+This workshop was originally written by [Jonny Strömberg](https://github.com/javve/bootstrap-workshop) for [Hyper Island](http://www.hyperisland.com/).
