@@ -6,15 +6,15 @@
 - Open index.html in your favorite editor
 - What are you wating for?
 
-Each assignment contains a couple of images that shows the desired result. I've decided to no include CSS editing in this workshop, but feel free to add margins under some elements to make it look better.
+Each assignment contains a couple of images that shows the desired result. The idea is to compose the desired layouts and styles by writing the HTML with appropriate Bootstrap classes and IDs. LESS/CSS editing should not be necessary, but feel free to add your own style if you feel like it. 
 
 Questions? Grab me or [ping @willslab at Twitter](https://twitter.com/willslab).
 
 #### Extra
 
 * If you get stuck with an assignment, ask for help or skip it!
-* Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) ex  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
-* Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) ex  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
+* Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) ex  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures for other resolutions)
+* Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) ex  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures for other resolutions)
 * Note: See `class="img-responsive"`? [Read more at getbootstrap.com](http://getbootstrap.com/css/#overview-responsive-images)
 
 #### Errors?
