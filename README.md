@@ -4,9 +4,9 @@
 
 - [Download this project](https://github.com/willklein/bootstrap-workshop/archive/master.zip) to get started.
 - Open index.html in your favorite editor
-- What are you wating for?
+- Get to work!
 
-Each assignment contains a couple of images that shows the desired result. The idea is to compose the desired layouts and styles by writing the HTML with appropriate Bootstrap classes and IDs. LESS/CSS editing should not be necessary, but feel free to add your own style if you feel like it. 
+Each assignment contains a couple of images that shows the desired result. The idea is to compose the desired layouts and styles by writing the HTML with appropriate Bootstrap classes and IDs. LESS/CSS editing should not be necessary, but you can add your own style if you feel like it. 
 
 Questions? Ask me or one of the coaches for help. I'll work through the workshop assignments on the big screen too, so you can follow along if you're lost at all. Feel free to ask questions about what I'm doing too.
 
@@ -50,8 +50,7 @@ Improve the grid. It should have four columns for desktop, two for tablets and o
 
 ## Assignment 3: Navbar
 
-Add a responsive menu (navbar) to your site. [Read more at getbootstrap.com](http://getbootstrap.com/components/#navbar). It should container a name (brand)
-four items. REMEBER THE ICONS! [Read more at getbootstrap.com](http://getbootstrap.com/components/#glyphicons)
+Add a responsive menu (navbar) to your site. [Read more at getbootstrap.com](http://getbootstrap.com/components/#navbar). It should have four items, plus icons for each. [Read more at getbootstrap.com](http://getbootstrap.com/components/#glyphicons)
 
 #### How it should look at a large display (desktop)
 ![](images/3-1.png?raw=true)
@@ -66,7 +65,7 @@ four items. REMEBER THE ICONS! [Read more at getbootstrap.com](http://getbootstr
 
 ## Assignment 4: Form
 
-Add a creat account form with a large create button. _Remember that Bootstrap supports nested grids._ [Read more at getbootstrap.com](http://getbootstrap.com/css/#forms)
+Add a create account form with a large create button. _Remember that Bootstrap supports nested grids._ [Read more at getbootstrap.com](http://getbootstrap.com/css/#forms)
 
 ![](images/4-1.png?raw=true)
 
@@ -81,13 +80,13 @@ Add a "read more" link beside "Create account" that launches a modal with more i
 
 ## Assignment 6: Tooltips
 
-Javascript!
+JavaScript!
 
-Time to name your images/kittens. Add [tooltips](http://getbootstrap.com/javascript/#tooltips) that tells the name of the image/kitten.
+Time to name your images/kittens. Add [tooltips](http://getbootstrap.com/javascript/#tooltips) that display the name of the image/kitten.
 
-To do these tasks you'll need to use Javascript. Add all code into `<script></script>` at the bottom of `index.html`, just before `</body>`.
+To do these tasks you'll need to use JavaScript. Add all code into `<script></script>` at the bottom of `index.html`, just before `</body>`.
 
-__Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` attributes.
+__Tips__: Easiest way to set this up is probably using `$('img').tooltip();` and then use `data-` attributes.
 
 ![](images/6-1.png?raw=true)
 
@@ -95,7 +94,7 @@ __Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` 
 ## Assignment 7: Build your own site
 
 Use Bootstrap to setup a personal website, or a landing page for your startup!
-- Start with a single page site
+- Start with a single page site.
 - Need a startup idea? Make something up, or use a silly generator like [this one](http://itsthisforthat.com/).
 
 When you're done, show me your site!
