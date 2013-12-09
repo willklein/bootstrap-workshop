@@ -8,7 +8,7 @@
 
 Each assignment contains a couple of images that shows the desired result. The idea is to compose the desired layouts and styles by writing the HTML with appropriate Bootstrap classes and IDs. LESS/CSS editing should not be necessary, but feel free to add your own style if you feel like it. 
 
-Questions? Grab me or [ping @willslab at Twitter](https://twitter.com/willslab).
+Questions? Ask me or one of the coaches for help. I'll work through the workshop assignments on the big screen too, so you can follow along if you're lost at all. Feel free to ask questions about what I'm doing too.
 
 #### Extra
 
@@ -85,7 +85,7 @@ Javascript!
 
 Time to name your images/kittens. Add [tooltips](http://getbootstrap.com/javascript/#tooltips) that tells the name of the image/kitten.
 
-To do this tasks you'll need to use Javascript. Add all code into `<script></script>` at the bottom of `index.html`, just before `</body>`.
+To do these tasks you'll need to use Javascript. Add all code into `<script></script>` at the bottom of `index.html`, just before `</body>`.
 
 __Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` attributes.
 
@@ -94,12 +94,11 @@ __Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` 
 
 ## Assignment 7: Build your own site
 
-Use Bootstrap to setup a personal website or landing page for your startup!
+Use Bootstrap to setup a personal website, or a landing page for your startup!
 - Start with a single page site
-- Try GitHub Pages for free hosting
-- Need a startup idea? Make something up, or use a generator like [this one](http://itsthisforthat.com/).
+- Need a startup idea? Make something up, or use a silly generator like [this one](http://itsthisforthat.com/).
 
-I guess that's it. Awesome work! Feel free to show me your site :)
+When you're done, show me your site!
 
 ## Credits
 
