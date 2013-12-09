@@ -2,7 +2,7 @@
 
 # Bootstrap Workshop with InnovateCU
 
-- [Download this project](https://github.com/wklein/bootstrap-workshop/archive/master.zip) to get started.
+- [Download this project](https://github.com/willklein/bootstrap-workshop/archive/master.zip) to get started.
 - Open index.html in your favorite editor
 - What are you wating for?
 
